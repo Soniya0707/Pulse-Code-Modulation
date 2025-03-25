@@ -73,7 +73,8 @@
  plt.show()
  ```
  ## Output Waveform
- ![download(1)](https://github.com/user-attachments/assets/83d6590c-ebc3-4630-ab63-bb9d2c905ae4)
+ ![natural_samp](https://github.com/user-attachments/assets/37f992bd-f15d-4222-88f0-97c6b26389f3)
+
 
  
  
