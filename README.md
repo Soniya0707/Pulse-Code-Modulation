@@ -1,5 +1,6 @@
 # Pulse-Code-Modulation
- 
+## Soniya D
+## 212223060268
  ## Aim
  To study and analyze Pulse Code Modulation (PCM) as a digital signal encoding technique, focusing on its principles, advantages, and applications in modern communication systems to improve signal integrity and transmission efficiency.
  ## Tools required
